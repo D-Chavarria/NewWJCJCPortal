@@ -1,0 +1,51 @@
+.button {
+    
+    padding-left: 100px;
+}
+button {
+   
+    margin-left: .5em;
+}
+           form {
+   
+    margin: 0 auto;
+    width: 400px;
+    form-align: left;
+   
+    padding: 1em;
+    border: 1px solid #CCC;
+    border-radius: 1em;
+}
+            
+           h1{
+color: black;
+-webkit-text-stroke:3px #2B2B22;
+font-size:110%;
+
+
+}
+input, textarea {
+    
+    font-family: 'SIMPSON', Times, serif;
+    
+
+    width: 150px;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+
+    border: 1px solid brown;
+}
+
+body{
+    color: Black;
+    background-color: lightblue;
+    background-size:cover;
+    background-attachment:fixed;
+   font-family: 'Times New Romans';
+	font-size: 18px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 100;
+	line-height: 26.3999996185303px;
+}
+
